@@ -20,14 +20,14 @@ public class EntityRepositoryImpl
     public Entity getOne(Integer integer) {
         Entity entity = super.getOne(integer);
 
-        // try to Alt+Space
+        // try to Ctrl+Space
 
         return entity;
     }
 
     public Entity getByLabel(String label) {
 
-        // try to Alt+Space
+        // try to Ctrl+Space
 
         return null;
     }
